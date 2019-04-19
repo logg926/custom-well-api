@@ -1,0 +1,9 @@
+Flask_Uploads==0.2.1
+Flask==1.0.2
+numpy==1.15.4
+Flask_RESTful==0.3.7
+Flask_Cors==3.0.7
+Werkzeug==0.14.1
+Pillow==5.4.1
+gunicorn
+git+https://www.github.com/logg926/hitherdither
